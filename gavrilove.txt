@@ -1,6 +1,6 @@
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd Gavrilove/About_Me
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cat gavrilove.txt<br/><br/>
- <img src="ProfilePic-removebg-preview.png" style="width: 100px" /> <br /> 
+<img src="ProfilePic-removebg-preview.png" style="width: 200px" /> <br /> 
 My favorite quote, "<span id="k">There is no right or wrong, just fun and boring.</span>". 
 
 Many may assume this resume belongs to a crazy person, but i value genuine expression and honesty over blindly following the crowd.
