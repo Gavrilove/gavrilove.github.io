@@ -1,4 +1,4 @@
-<span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd Gavrilove/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd Gavrilove/About_Me
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cat gavrilove.txt<br/><br/>
 My favorite quote, "<span id="k">There is no right or wrong, just fun and boring.</span>". 
 
@@ -26,5 +26,8 @@ If you experience any of the following symptoms while watching content on follow
 
 You can also give your email ID for contacting you, feel free to send me an email at <br>
 <a href="https://solomondin@gmail.com">>My Email<</a>.
+
+And in the end one PRO Tip - <a href="https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf">>Read The Hacker Manifesto <</a>
+
 
 <p>Cheers!</p>
