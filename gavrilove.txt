@@ -4,16 +4,15 @@ My favorite hacking quote, "<span id="k">There is no right or wrong, just fun an
 
 Many may assume this resume belongs to a crazy person, but i value genuine expression and honesty over blindly following the crowd.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Whether i got small chuckle or solve much bigger problems. I'm inspired by making positive impact in the world and all areas of my own life</p>
-
 <p>My name is  "<span id="k">Andrei Gavrilov</span>" and I'm The Best In The World At Penetration Testing 😉</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
-<p> Education: I graduated with a BA in BS from MTI, Yal, and Harvaard
+<p> <mark class="blue">Education</mark>: I graduated with a BA in BS from MTI, Yal, and Harvaard<br>
 Career Experience: I once compiled 800 lines of software code in 23 minutes, it almost worked<br>
-References: "Andrei makes the day last forever." "He is capable of so much more." "Andrei set the standards to which no one else can achieve."<br> <br>
+References: "Andrei makes the day last forever." "He is capable of so much more." "Andrei set the standards to which no one else can achieve." 
 
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">My Portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 
-<p>“I am extremely loyal to my current employer….Feel free to ring my office if you are interested in my CV”. <br><br><br> 
+<p>“I am extremely loyal to my current employer….Feel free to ring my office if you are interested in my CV”.
 
 If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
