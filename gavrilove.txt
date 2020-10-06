@@ -1,10 +1,30 @@
-<span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd Gavrilove/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->gavrilove.txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+My favorite hacking quote, "<span id="k">There is no right or wrong, just fun and boring.</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+Many may assume this resume belongs to a crazy person, but i value genuine expression and honesty over blindly following the crowd.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Whether i got small chuckle or solve much bigger problems. I'm inspired by making positive impact in the world and all areas of my own life
+.</p>
+<p>I'm The Best In The World At Penetration Testing</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> Education: <br>
+<br>
+I was first in my Second Grade class in knot tying<br>
+My freshman math teacher said he had never seen anyone like me<br>
+My college English teacher nominated me for the "remedial" grammar class<br>
+I graduated with a BA in BS from MTI, Yal, and Harvaard<br>
+<br>
+Career Experience:<br>
+<br>
+I'm a hard worker, never late for work for my 5 pm start time<br>
+I know how to replace the big plastic trash bags in the brown bins<br>
+I once compiled 800 lines of software code in 23 minutes, it almost worked<br>
+I used to pack parachutes for the Navy, until that little incident<br>
+I have my very own red stapler<br>
+<br>
+References:<br>
+<br>
+"Michael makes the day last forever."<br>
+"He is capable of so much more."<br>
+"Michael set the standards to which no one else can achieve."<br><a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
