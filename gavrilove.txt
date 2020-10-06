@@ -15,7 +15,7 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 
 <p>“I am extremely loyal to my current employer….Feel free to ring my office if you are interested in my CV”.</p>
 
-If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> <span style="cursor:pointer">Here you go</span></a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 <p> As you already understand - I like weird stuff, so here some more: <br>
 <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Falling</span></a> <br> 
