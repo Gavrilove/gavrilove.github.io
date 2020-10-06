@@ -17,7 +17,10 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 
 If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-<p> As you already understand - I like weird stuff, so here some more: <br> <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Falling</a> <br> <a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Slaping</a> and <br> <a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Waiting</a>.</p>
+<p> As you already understand - I like weird stuff, so here some more: <br>
+<a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Falling</span></a> <br> 
+<a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Slapping</span></a> and <br> 
+<a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Waiting</span></a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <br><!-- longlonglongcomment --><a href="https://solomondin@gmail.com">My Email</a>.
 
