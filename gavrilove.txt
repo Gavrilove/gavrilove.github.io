@@ -6,15 +6,15 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 <p>My name is  "<span id="k">Andrei Gavrilov</span>" and I'm The Best In The World At Penetration Testing 😉</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> Education: <br>
 I graduated with a BA in BS from MTI, Yal, and Harvaard
-Career Experience:
-I once compiled 800 lines of software code in 23 minutes, it almost worked<br>
-References:
+Career Experience:<br>
+I once compiled 800 lines of software code in 23 minutes, it almost worked
+References:<br>
 "Andrei makes the day last forever."
 "He is capable of so much more."
-"Andrei set the standards to which no one else can achieve."<br> <a href="link">My portfolio here</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+"Andrei set the standards to which no one else can achieve."<br> <br> <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">My Portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>“I am extremely loyal to my current employer….Feel free to ring my office if you are interested in my CV”. <br><br><br> If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a href="http://www.staggeringbeauty.com/"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> As you already understand - I like weird stuff, so here some more: <br> <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Falling</a> <br> <a href="http://eelslap.com/">Slaping</a> and <br> <a href="http://www.patience-is-a-virtue.org/">Waiting</a>.</p>
+<p> As you already understand - I like weird stuff, so here some more: <br> <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Falling</a> <br> <a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Slaping</a> and <br> <a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">Waiting</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="solomondin@gmail.com">My Email</a>.
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <br><!-- longlonglongcomment --><a href="solomondin@gmail.com">My Email</a>.
 
 <p>Cheers!</p>
