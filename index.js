@@ -2,12 +2,12 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:1,
+	speed:2,
 	file:"", 
 	accessCount:0,
 	deniedCount:0, 
 	init: function(){
-		accessCountimer=setInterval(function(){Typer.updLstChr();},200); 
+		accessCountimer=setInterval(function(){Typer.updLstChr();},500); 
 		$.get(Typer.file,function(data){
 			Typer.text=data;
 			Typer.text = Typer.text.slice(0, Typer.text.length-1);
@@ -101,7 +101,7 @@ Typer.speed=3;
 Typer.file="gavrilove.txt"; // add your own name here
 Typer.init();
  
-var timer = setInterval("t();", 30);
+var timer = setInterval("t();", 10);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	
