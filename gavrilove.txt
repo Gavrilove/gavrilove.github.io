@@ -1,10 +1,10 @@
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cd Gavrilove/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">Andrei@Gavrilov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->gavrilove.txt<br/><br/>
-My favorite hacking quote, "<span id="k">There is no right or wrong, just fun and boring.</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">There is no right or wrong, just fun and boring.</span>". <!-- sjkfhskjf -->
 
 Many may assume this resume belongs to a crazy person, but i value genuine expression and honesty over blindly following the crowd.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Whether i got small chuckle or solve much bigger problems. I'm inspired by making positive impact in the world and all areas of my own life</p>
-<p>My name is  "<span id="k">Andrei Gavrilov</span>" and I'm The Best In The World At Penetration Testing 😉</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>My name is  "<span id="k">Andrei Gavrilov</span>" and I'm The Best In The World At Offensive Engeneering 😉</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 
 <p> <mark class="blue">Education</mark>: I graduated with a BA in BS from MTI, Yal, and Harvaard<br>
 <mark class="blue">Career Experience</mark>: I once compiled 800 lines of software code in 23 minutes, it almost worked<br>
