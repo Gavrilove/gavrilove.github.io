@@ -11,7 +11,7 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 <mark class="blue">References</mark>: "Andrei makes the day last forever." "He is capable of so much more." "Andrei set the standards to which no one else can achieve." 
 
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
-<span style="cursor:pointer">>My Normal Portfolio<</span></a>
+<span style="cursor:pointer">>My Normalized Resume<</span></a>
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Real Projects<</span></a>
 <a onclick="window.open('https://gavrilove.github.io/blog.github.io/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
@@ -22,10 +22,10 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> <span style="cursor:pointer">Here you go</span></a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 <p> As you already understand - I like weird stuff, so here some more: <br>
-<a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Falling</span></a> <br> 
-<a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Slapping</span></a> and <br> 
-<a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">Waiting</span></a>.</p>
+<a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Falling<</span></a> <br> 
+<a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Slapping<</span></a> and <br> 
+<a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Waiting<</span></a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <br><!-- longlonglongcomment --><a href="https://solomondin@gmail.com">My Email</a>.
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <br><!-- longlonglongcomment --><a href="https://solomondin@gmail.com">>My Email<</a>.
 
 <p>Cheers!</p>
