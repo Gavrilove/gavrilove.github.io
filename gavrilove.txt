@@ -5,29 +5,21 @@ My favorite quote, "<span id="k">There is no right or wrong, just fun and boring
 Many may assume this resume belongs to a crazy person, but i value genuine expression and honesty over blindly following the crowd.
 <p>Whether i got small chuckle or solve much bigger problems. I'm inspired by making positive impact in the world and all areas of my own life</p>
 <p>My name is  "<span id="k">Andrei Gavrilov</span>" and I'm The Best In The World At Offensive Engeneering 😉</p> 
-
 <p> <mark class="blue">Education</mark>: I graduated with a BA in BS from MTI, Yal, and Harvaard<br>
 <mark class="blue">Career Experience</mark>: I once compiled 800 lines of software code in 23 minutes, it almost worked<br>
 <mark class="blue">References</mark>: "Andrei makes the day last forever." "He is capable of so much more." "Andrei set the standards to which no one else can achieve." 
-
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Normalized Resume<</span></a>
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Real Projects<</span></a>
 <a onclick="window.open('https://gavrilove.github.io/blog.github.io/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Awesome Blog<</span></a>
-
 If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> <span style="cursor:pointer">Here you go</span></a>.</p>
-
 <p> As you already understand - I like weird stuff, so here some more: <br>
 <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Falling<</span></a> <br> 
 <a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Slapping<</span></a> and <br> 
 <a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Waiting<</span></a>.</p>
-
 You can also give your email ID for contacting you, feel free to send me an email at <br>
 <a href="https://solomondin@gmail.com">>My Email<</a>.
-
-And in the end one PRO Tip - <a href="https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf">>Read The Hacker Manifesto <</a>
-
-
+And in the end one PRO Tip <a onclick="window.open('https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Read The Hacker Manifesto<</span></a>
 <p>Cheers!</p>
