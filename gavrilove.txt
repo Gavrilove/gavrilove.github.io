@@ -11,7 +11,11 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 <mark class="blue">References</mark>: "Andrei makes the day last forever." "He is capable of so much more." "Andrei set the standards to which no one else can achieve." 
 
 <a onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
-<span style="cursor:pointer">My Portfolio</span></a>
+<span style="cursor:pointer">My Normal Portfolio</span> /
+onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+<span style="cursor:pointer">My Real Projects</span> /
+onclick="window.open('https://github.com/Gavrilove?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+<span style="cursor:pointer">My Awesome Blog</span></a>
 
 <p>“I am extremely loyal to my current employer….Feel free to ring my office if you are interested in my CV”.</p>
 
