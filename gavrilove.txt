@@ -15,10 +15,10 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 <a onclick="window.open('https://gavrilove.github.io/blog.github.io/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Awesome Blog<</span></a> </br>
 <a href="https://solomondin@gmail.com">>Email Me<</a> </br>
-<p> As you already understand - I like when ppl think differently, so here some examples i like: <br>
+<p> As you already see - I like when ppl think differently, so here some examples i like: <br>
 <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Falling<</span></a> <br> 
 <a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Slapping<</span></a> and <br> 
-<a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Waiting<</span></a>.</p>
+<a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Waiting<</span></a></p>
 And in the end one PRO Tip <a onclick="window.open('https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Read The Hacker Manifesto<</span></a>
 <p>Cheers!</p>
 <img src="ProfilePic-removebg-preview.png" style="width: 200px" align="right" /> <br /> 
