@@ -14,9 +14,8 @@ Many may assume this resume belongs to a crazy person, but i value genuine expre
 <span style="cursor:pointer">>My Real Projects<</span></a>
 <a onclick="window.open('https://gavrilove.github.io/blog.github.io/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
 <span style="cursor:pointer">>My Awesome Blog<</span></a> </br>
-<a href="https://solomondin@gmail.com">>Email Me<</a>. 
-If you experience any of the following symptoms while watching content on followin link -- dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - IMMEDIATELY discontinue use and consult your physician before resuming play.<a  onclick="window.open('http://www.staggeringbeauty.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"> <span style="cursor:pointer">Here you go</span></a>.</p>
-<p> As you already understand - I like weird stuff, so here some more: <br>
+<a href="https://solomondin@gmail.com">>Email Me<</a> </br>
+<p> As you already understand - I like when ppl think differently, so here some examples i like: <br>
 <a onclick="window.open('http://www.fallingfalling.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Falling<</span></a> <br> 
 <a onclick="window.open('http://eelslap.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Slapping<</span></a> and <br> 
 <a onclick="window.open('http://www.patience-is-a-virtue.org/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Waiting<</span></a>.</p>
